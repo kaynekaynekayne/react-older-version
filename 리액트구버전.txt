@@ -1,0 +1,17 @@
+
+*리액트는 c->사용자->user 폴더에 있음
+
+현버전->my-react-app
+구버전->react-older-version
+
+1. 프롬프트에 node -v 쳐서 설치되어있는지 확인
+2. npm 입력 후 설치되어 있는지 확인
+3. git 입력 후 설치되어 있는지 확인
+
+4. 프롬프트에 npx create-react-app "react-older-version"(폴더) 입력->설치완료
+
+------
+
+for git
+1. 터미널에 git init
+2. git remote add origin https://github.com/kaynekaynekayne/react-older-version
